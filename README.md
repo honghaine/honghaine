@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @honghaine
+- 👀 I’m interested in technology and business skills
