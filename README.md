@@ -12,7 +12,7 @@ Welcome to my personal GitHub page! This repository serves as a platform for me 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,java,nodejs,html,css,firebase,mongodb,mysql,github,postman,discord" />
+    <img src="https://skillicons.dev/icons?i=java,js,nodejs,html,css,firebase,mongodb,mysql,github,postman,discord" />
   </a>
 </p>
 
